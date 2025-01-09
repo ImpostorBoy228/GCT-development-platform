@@ -1,0 +1,17 @@
+
+{
+  "name": "codex-omni",
+  "version": "1.0.0",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "@monaco-editor/react": "^4.4.6",
+    "browserfs": "^1.4.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "axios": "^1.5.0"
+  }
+}
